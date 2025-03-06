@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 
 export const App = () => {
   const [count, setCount] = useState(0);
-  const [title, setTitle] = useState("suiz")
+  const [title, setTitle] = useState("seiz")
   return (
     <div className="h-dvh flex flex-col items-center justify-center">
       <div className="bg-white p-8 rounded-md shadow-lg">
