@@ -41,7 +41,7 @@ export const RootRoute = () => {
                   Modifica <code>src/App.tsx</code> e salva per testare l'hot reload
                 </p>
               </div>
-                <a href="/dettaglio/0">link</a>
+                
               <p className="text-center text-sm text-blue-400">Clicca sui loghi per saperne di più</p>
 
               <Link 
